@@ -1,0 +1,13 @@
+{
+  "name": "sc16is7x0 decoder",
+  "apiVersion": "1.0.0",
+  "author": "Georges Palauqui - Leroy Automation",
+  "version": "0.0.1",
+  "description": "sc16is7x0 SPI bus decoder",
+  "extensions": {
+    "sc16is7x0 decoder": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
